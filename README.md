@@ -97,4 +97,5 @@ Follow the deployment instructions to deploy the app to a remote server and sche
 run the following code in terminal:
 ```sh
 FLASK_APP=web_app flask run
+#or store the FLASK_APP=web_app in your .env file and then you can just paste 'flask run'
 ```
